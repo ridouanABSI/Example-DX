@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Aborted__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Signifies this async request job has been aborted due to too many failed attempts</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Signifies this async request job has been aborted due to too many failed attempts</inlineHelpText>
+    <label>Aborted</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>
